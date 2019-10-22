@@ -1,12 +1,16 @@
-EMS(Event Management System)
+# EMS(Event Management System)
 
-Simple event management system for college fest
-using Mongodb
+## Simple event management system for college fest
 
-Packages
-express
-Mongoose
-bcrypt
+## Stack
+* Nodejs
+* Express
+* MongoDB
 
-Packages-DEV
-nodemon
+## Packages
+* express
+* Mongoose
+* bcrypt
+
+## Dev-Packages
+* nodemon
